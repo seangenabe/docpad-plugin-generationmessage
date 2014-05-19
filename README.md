@@ -4,13 +4,17 @@ Immediately send back a custom response while generation has not yet been perfor
 
 ## Install
 
-  docpad install generationmessage
+```
+docpad install generationmessage
+```
 
 ## Configure
 
-  plugins:
-    generationmessage:
-      generationMessageFile: '503-generation.html'   # The path to the generation file.
+```
+plugins:
+  generationmessage:
+    generationMessageFile: '503-generation.html'   # The path to the generation file.
+```
 
 ## Creating a generation message file
 
