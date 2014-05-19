@@ -1,0 +1,7 @@
+.travis*
+Makefile
+Cakefile
+History.md
+
+src/
+.idea/
