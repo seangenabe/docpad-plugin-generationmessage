@@ -24,7 +24,7 @@
     "q": "^1.0.1"
   },
   "devDependencies": {
-    "coffee-script": "~1.6.3"
+    "coffee-script": "~1.12.2"
   },
   "main": "./out/generationmessage.plugin.js"
 }
