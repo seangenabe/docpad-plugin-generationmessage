@@ -1,5 +1,7 @@
 # Generation message plugin for [DocPad](http://docpad.org)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/docpad-plugin-generationmessage.svg)](https://greenkeeper.io/)
+
 Immediately send back a custom response while generation has not yet been performed.
 
 ## Install
